@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/LOGO.svg" width="180" alt="AI & IoT SSA logo">
+  <img src="assets/Logo.png" width="180" alt="AI & IoT SSA logo">
 </p>
 
 <h1 style="color:#003366; font-family:Calibri;">
@@ -91,7 +91,7 @@ All content is open-access to promote transparency, learning, and collaborative 
 
 <div align="center">
   <h3 style="color:#003366; font-family:Calibri; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="assets/LOGO.svg" width="40" alt="AI & IoT SSA logo" style="vertical-align: middle;">
+    <img src="assets/Logo.png" width="40" alt="AI & IoT SSA logo" style="vertical-align: middle;">
     “Empowering innovation through intelligence, connectivity, and academic collaboration.”
   </h3>
 
