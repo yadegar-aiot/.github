@@ -83,6 +83,7 @@ All content is open-access to promote transparency, learning, and collaborative 
 <p style="color:white; font-family:Cambria;">
 📧 <b>Email:</b> <a href="mailto:yadegar.aiot.ssa@gmail.com" style="color:#4da6ff;">yadegar.aiot.ssa@gmail.com</a><br>
 📢 <b>Telegram Channel:</b> <a href="https://t.me/yadegar_aiot" style="color:#4da6ff;">@yadegar_aiot</a><br>
+🏢 <b>Linkedin:</b> <a href="https://www.linkedin.com/company/yadegar-aiot/" style="color:#4da6ff;">@yadegar-aiot</a><br>
 👤 <b>Public Relations:</b> Mohammadreza Ahmadi (mohyahy) — <a href="https://t.me/AI_ssa_yi_iau" style="color:#4da6ff;">@AI_ssa_yi_iau</a><br>
 🌐 <b>University Website:</b> <a href="https://yi.iau.ir/en" style="color:#4da6ff;">Yadegar-e-Imam University</a>
 </p>
