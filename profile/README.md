@@ -2,7 +2,10 @@
 <p align="center">
   <img src="assets/Logo.png" width="180" alt="AI & IoT SSA logo">
 </p>
-
+<p align="Left">
+  <b>🌐 Language:</b> 
+  English | <a href="README_FA.md">فارسی</a>
+</p>
 <h1 style="color:#003366; font-family:Calibri;">
 AI & IoT Student Scientific Association  
 of Yadegar-e-Imam University
