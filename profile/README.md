@@ -104,3 +104,24 @@ All content is open-access to promote transparency, learning, and collaborative 
     <i>AI & IoT Student Scientific Association — Yadegar-e-Imam University, Tehran, Iran</i>
   </p>
 </div>
+---
+
+<h2 style="color:#003366; font-family:Calibri;">🤝 Affiliated & Supporting Bodies</h2>
+
+<p style="color:white; font-family:Cambria;">
+This student scientific association operates under and in collaboration with the following organizations:
+</p>
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:22px; justify-content:center; align-items:center;">
+
+  <img src="assets/Yadegar-Imam-IAU-Logo.svg" height="70" alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
+
+  <img src="assets/Bashgah-Pajooheshgaran-Javan.svg" height="70" alt="Young Researchers & Elite Club">
+
+  <img src="assets/IOT-LOGO-Blue.svg" height="50" alt="AI & IoT Student Scientific Association">
+</div>
+
+<p style="color:#cccccc; font-family:Cambria;" align="center">
+
+</p>
+
