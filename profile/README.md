@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/IOT-LOGO-Blue.svg" width="180" alt="AI & IoT SSA logo">
+  <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo">
 </p>
 <p align="Left">
   <b>🌐 Language:</b> 
@@ -98,6 +98,7 @@ All content is open-access to promote transparency, learning, and collaborative 
   <h3 style="color:#003366; font-family:Calibri; display: flex; align-items: center; justify-content: center; gap: 10px;">
     <img src="assets/IOT-LOGO-Blue.svg" width="40" alt="AI & IoT SSA logo" style="vertical-align: middle;">
     “Empowering innovation through intelligence, connectivity, and academic collaboration.”
+    <img src="assets/LOGO-AI-Final.svg" width="30" alt="AI & IoT SSA logo" style="vertical-align: middle;">
   </h3>
 
   <p style="color:white; font-family:Cambria;">
@@ -114,11 +115,9 @@ This student scientific association operates under and in collaboration with the
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:22px; justify-content:center; align-items:center;">
 
-  <img src="assets/Yadegar-Imam-IAU-Logo.svg" height="70" alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
+  <img src="assets/Yadegar-Imam-IAU-Logo.svg" height="150" alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
 
-  <img src="assets/Bashgah-Pajooheshgaran-Javan.svg" height="70" alt="Young Researchers & Elite Club">
-
-  <img src="assets/IOT-LOGO-Blue.svg" height="50" alt="AI & IoT Student Scientific Association">
+  <img src="assets/Bashgah-Pajooheshgaran-Javan.svg" height="150" alt="Young Researchers & Elite Club">
 </div>
 
 <p style="color:#cccccc; font-family:Cambria;" align="center">
