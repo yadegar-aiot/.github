@@ -115,12 +115,14 @@ This student scientific association operates under and in collaboration with the
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:22px; justify-content:center; align-items:center;">
 
-  <img src="assets/Yadegar-Imam-IAU-Logo.svg" height="150" alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
+  <a href="https://yi.iau.ir/en">
+    <img src="assets/Yadegar-Imam-IAU-Logo.svg" height="150"
+         alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
+  </a>
 
-  <img src="assets/Bashgah-Pajooheshgaran-Javan.svg" height="150" alt="Young Researchers & Elite Club">
+  <a href="https://bpj.iau.ir/">
+    <img src="assets/Bashgah-Pajooheshgaran-Javan.svg" height="150"
+         alt="Young Researchers & Elite Club">
+  </a>
+
 </div>
-
-<p style="color:#cccccc; font-family:Cambria;" align="center">
-
-</p>
-
