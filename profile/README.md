@@ -84,7 +84,7 @@ All content is open-access to promote transparency, learning, and collaborative 
 <h2 style="color:#003366; font-family:Calibri;">📫 Contact & Collaboration</h2>
 
 <p style="color:white; font-family:Cambria;">
-📧 <b>Email:</b> <a href="mailto:yadegar.aiot.ssa@gmail.com" style="color:#4da6ff;">yadegar.aiot.ssa@gmail.com</a><br>
+📧 <b>Email:</b> <a href="mailto:yadegar.ai.ssa@gmail.com" style="color:#4da6ff;">yadegar.ai.ssa@gmail.com</a><br>
 📢 <b>Telegram Channel:</b> <a href="https://t.me/yadegar_aiot" style="color:#4da6ff;">@yadegar_aiot</a><br>
 🏢 <b>Linkedin:</b> <a href="https://www.linkedin.com/company/yadegar-aiot/" style="color:#4da6ff;">@yadegar-aiot</a><br>
 🧩 <b>Secretary:</b> Roshanak Aboudi — <a href="https://github.com/Roshanak-Aboudi" style="color:#4da6ff;">@Roshanak-Aboudi</a><br>
