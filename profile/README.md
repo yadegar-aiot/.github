@@ -6,16 +6,19 @@
 
 <p align="center">
 <picture>
-  <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml" width="200"> 
+  <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml" width="200" alt="logo main"> 
  <!-- اصلی -->
-<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" alt="Logo"width="200">       
+
+<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" width="200" alt="logo fallback" />
 <!-- فال‌بک -->
 </picture>
 
 
-
-``` <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo"> ```
+<!-- <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo"> -->
 </p>
+
+
+
 <p align="Left">
   <b>🌐 Language:</b> 
   English | <a href="README_FA.md">فارسی</a>
