@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" width="200" alt="test" />
+<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-White.svg" width="200" alt="test" />
 
 
 
