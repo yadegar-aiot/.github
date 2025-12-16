@@ -129,4 +129,5 @@ This student scientific association operates under and in collaboration with the
   <a href="https://yi.iau.ir/en">
     <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FYadegar-Imam-IAU-Logo.svg" height="150"
          alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
+
 </div>
