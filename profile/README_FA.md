@@ -115,4 +115,18 @@
   <p style="color:white; font-family:Cambria;">
     <i>انجمن علمی دانشجویی هوش مصنوعی و اینترنت اشیا — دانشگاه آزاد اسلامی واحد یادگار امام خمینی (ره) - شهر ری، تهران</i>
   </p>
+
+
+
+<h2 style="color:#003366; font-family:Calibri;"> Affiliated & Supporting Bodies</h2>
+
+<p style="color:white; font-family:Cambria;">
+This student scientific association operates under and in collaboration with the following organizations:
+</p>
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:22px; justify-content:center; align-items:center;">
+
+  <a href="https://yi.iau.ir/en">
+    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FYadegar-Imam-IAU-Logo.svg" height="150"
+         alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
 </div>
