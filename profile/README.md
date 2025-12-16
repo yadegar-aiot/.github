@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./assets/Logo.png" width="200" alt="test" />
+<img src=".github/assets/Logo.png" width="200" alt="test" />
 
 
 <p align="center">
