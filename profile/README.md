@@ -3,7 +3,7 @@
 <picture>
   <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml"> 
  <!-- اصلی -->
-  <img src="assets/Logopng" alt="Logo">            <!-- فال‌بک -->
+  <img src="assets/Logo.png" alt="Logo">            <!-- فال‌بک -->
 </picture>
 
 
