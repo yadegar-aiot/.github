@@ -103,9 +103,9 @@ All content is open-access to promote transparency, learning, and collaborative 
 
 <div align="center">
   <h3 style="color:#003366; font-family:Calibri; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="assets/IOT-LOGO-Blue.svg" width="40" alt="AI & IoT SSA logo" style="vertical-align: middle;">
+    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" width="40" alt="AI & IoT SSA logo" style="vertical-align: middle;">
     “Empowering innovation through intelligence, connectivity, and academic collaboration.”
-    <img src="assets/LOGO-AI-Final.svg" width="30" alt="AI & IoT SSA logo" style="vertical-align: middle;">
+    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FLOGO-AI-Final.svg" width="30" alt="AI & IoT SSA logo" style="vertical-align: middle;">
   </h3>
 
   <p style="color:white; font-family:Cambria;">
