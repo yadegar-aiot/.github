@@ -4,18 +4,8 @@
 <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" width="200" alt="test" />
 
 
-<p align="center">
-<picture>
-  <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml" width="200" alt="logo main"> 
- <!-- اصلی -->
-
-<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" width="200" alt="logo fallback" />
-<!-- فال‌بک -->
-</picture>
-
 
 <!-- <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo"> -->
-</p>
 
 
 
@@ -133,12 +123,12 @@ This student scientific association operates under and in collaboration with the
 <div align="center" style="display:flex; flex-wrap:wrap; gap:22px; justify-content:center; align-items:center;">
 
   <a href="https://yi.iau.ir/en">
-    <img src="assets/Yadegar-Imam-IAU-Logo.svg" height="150"
+    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FYadegar-Imam-IAU-Logo.svg" height="150"
          alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
   </a>
 
   <a href="https://bpj.iau.ir/">
-    <img src="assets/Bashgah-Pajooheshgaran-Javan.svg" height="150"
+    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FBashgah-Pajooheshgaran-Javan.svg" height="150"
          alt="Young Researchers & Elite Club">
   </a>
 
