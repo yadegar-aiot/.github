@@ -1,7 +1,20 @@
 <div align="center">
+
+
 <p align="center">
-  <img src="assets/Logo.png" width="180" alt="لوگوی انجمن علمی IOT و هوش مصنوعی">
+<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" width="200" alt="test" />
+
+
+
+<!-- <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo"> -->
+
 </p>
+
+<!-- <img src="assets/Logo.png" width="180" alt="لوگوی انجمن علمی IOT و هوش مصنوعی">-->
+
+
+
+
 <p align="Right">
   <b>🌐 زبان:</b>
   <a href="README.md">English</a> | فارسی
