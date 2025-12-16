@@ -6,9 +6,10 @@
 
 <p align="center">
 <picture>
-  <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml"> 
+  <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml" width="200"> 
  <!-- اصلی -->
-  <img src="assets/Logo.png" alt="Logo">            <!-- فال‌بک -->
+<img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FIOT-LOGO-Blue.svg" alt="Logo"width="200">       
+<!-- فال‌بک -->
 </picture>
 
 
