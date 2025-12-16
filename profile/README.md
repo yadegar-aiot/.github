@@ -1,4 +1,9 @@
 <div align="center">
+
+
+<img src="./assets/Logo.png" width="200" alt="test" />
+
+
 <p align="center">
 <picture>
   <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml"> 
