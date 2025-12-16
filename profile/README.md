@@ -1,6 +1,5 @@
 <div align="center">
 <p align="center">
-<h1>power by PlatMat</h1>
 <picture>
   <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml"> 
  <!-- اصلی -->
