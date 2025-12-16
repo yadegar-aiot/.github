@@ -11,7 +11,7 @@
 
 <p align="Left">
   <b>🌐 Language:</b> 
-  English | <a href="README_FA.md">فارسی</a>
+  English | <a href="https://github.com/yadegar-aiot/.github/blob/main/profile%2FREADME_FA.md">فارسی</a>
 </p>
 <h1 style="color:#003366; font-family:Calibri;">
 AI & IoT Student Scientific Association  
