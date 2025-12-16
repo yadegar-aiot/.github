@@ -8,7 +8,7 @@
 
 
 
----<img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo">
+``` <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo"> ```
 </p>
 <p align="Left">
   <b>🌐 Language:</b> 
