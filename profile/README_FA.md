@@ -22,7 +22,7 @@
 <h1 style="color:#003366; font-family:Calibri;">
 انجمن علمی دانشجویی  
 هوش مصنوعی و اینترنت اشیا  
-دانشگاه آزاد اسلامی واحد یادگار امام (ره)
+دانشگاه آزاد اسلامی واحد یادگار امام (ره)<br>
 </h1>
 
 <p style="color:white; font-family:Cambria; font-size:16px;">
