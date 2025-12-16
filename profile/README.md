@@ -1,5 +1,12 @@
 <div align="center">
 <p align="center">
+<picture>
+  <source srcset="assets/IOT-LOGO-Blue.svg" type="image/svg+xml">  <!-- اصلی -->
+  <img src="assets/LOGO.png" alt="Logo">            <!-- فال‌بک -->
+</picture>
+
+
+
   <img src="assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo">
 </p>
 <p align="Left">
