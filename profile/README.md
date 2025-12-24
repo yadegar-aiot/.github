@@ -115,6 +115,7 @@ All content is open-access to promote transparency, learning, and collaborative 
     <i>AI & IoT Student Scientific Association — Yadegar-e-Imam University, Tehran, Iran</i>
   </p>
 </div>
+
 ---
 
 <h2 style="color:#003366; font-family:Calibri;">🤝 Affiliated & Supporting Bodies</h2>
@@ -123,16 +124,16 @@ All content is open-access to promote transparency, learning, and collaborative 
 This student scientific association operates under and in collaboration with the following organizations:
 </p>
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:22px; justify-content:center; align-items:center;">
-
-  <a href="https://yi.iau.ir/en">
-    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FYadegar-Imam-IAU-Logo.svg" height="150"
-         alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch">
-  </a>
-
-  <a href="https://bpj.iau.ir/">
-    <img src="https://github.com/yadegar-aiot/.github/blob/main/profile%2Fassets%2FBashgah-Pajooheshgaran-Javan.svg" height="150"
-         alt="Young Researchers & Elite Club">
-  </a>
-
+<div align="center">
+  <a href="https://yi.iau.ir/en"><img
+    src="https://raw.githubusercontent.com/yadegar-aiot/.github/main/profile/assets/Yadegar-Imam-IAU-Logo.svg"
+    height="150"
+    alt="Islamic Azad University — Yadegar-e-Imam (RAH) Branch"
+  ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bpj.iau.ir/"><img
+    src="https://raw.githubusercontent.com/yadegar-aiot/.github/main/profile/assets/Bashgah-Pajooheshgaran-Javan.svg"
+    height="150"
+    alt="Young Researchers & Elite Club"
+  ></a>
 </div>
+
