@@ -97,7 +97,7 @@ All content is open-access to promote transparency, learning, and collaborative 
 📧 <b>Email:</b> <a href="mailto:yadegar.ai.ssa@gmail.com" style="color:#4da6ff;">yadegar.ai.ssa@gmail.com</a><br>
 📢 <b>Telegram Channel:</b> <a href="https://t.me/yadegar_aiot" style="color:#4da6ff;">@yadegar_aiot</a><br>
 🏢 <b>Linkedin:</b> <a href="https://www.linkedin.com/company/yadegar-aiot/" style="color:#4da6ff;">@yadegar-aiot</a><br>
-🧩 <b>Secretary:</b> Roshanak Aboudi — <a href="https://github.com/Roshanak-Aboudi" style="color:#4da6ff;">@Roshanak-Aboudi</a><br>
+🧩 <b>Secretary:</b> Pooria Lari — <a href="https://github.com/Pooria-Lari" style="color:#4da6ff;">@Pooria-Lari</a><br>
 👤 <b>Public Relations:</b> Mohammadreza Ahmadi (mohyahy) — <a href="https://t.me/AIot_ssa_yi_iau" style="color:#4da6ff;">@AIot_ssa_yi_iau</a><br>
 🌐 <b>University Website:</b> <a href="https://yi.iau.ir/en" style="color:#4da6ff;">Yadegar-e-Imam University</a>
 </p>
