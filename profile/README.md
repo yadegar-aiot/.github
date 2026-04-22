@@ -49,6 +49,57 @@ rapidly evolving domains of Artificial Intelligence and the Internet of Things.
 
 ---
 
+<h2 style="color:#003366; font-family:Calibri;">🏢 Specialized Subgroups</h2>
+
+<p style="color:white; font-family:Cambria;">
+To focus more deeply on specific technical domains and practical applications, our association has established the following specialized subgroups:
+</p>
+
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse; background: transparent;">
+    <tr>
+      <td align="center" style="padding: 20px; border: none;">
+        <img 
+          src="https://raw.githubusercontent.com/yadegar-aiot/.github/main/profile/assets/TTVEAAIOT-001.svg"
+          alt="TTV-EA-AIOT Logo"
+          width="280"
+          style="border-radius: 12px;"
+          onerror="this.onerror=null; this.src='https://via.placeholder.com/280x100?text=Design+Team';"
+        />
+        <br />
+        <b style="color:#4da6ff;">TTV – EPA – AIOT</b>
+      </td>
+      <td style="padding: 20px; border: none; text-align: left; color:white; font-family:Cambria;">
+        <b>🎨 Design & Ideation Team</b><br />
+        Handles all creative design work including posters, infographics, UI/UX design, branding, and visual content creation for the association.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px; border: none;">
+        <img 
+          src="https://raw.githubusercontent.com/yadegar-aiot/.github/main/profile/assets/TTPALDAIOT-001.svg"
+          alt="TTP-ALD-AIOT Logo"
+          width="280"
+          style="border-radius: 12px;"
+          onerror="this.onerror=null; this.src='https://via.placeholder.com/280x100?text=Research+Team';"
+        />
+        <br />
+        <b style="color:#4da6ff;">TTP – ALD – AIOT</b>
+      </td>
+      <td style="padding: 20px; border: none; text-align: left; color:white; font-family:Cambria;">
+        <b>🔬 Research & Scientific Team</b><br />
+        Conducts advanced research, algorithm design, machine learning model development, and professional technical projects in AI and IoT.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center" style="color:#cccccc; font-family:Cambria;">
+🔗 Coming soon: Documentation, projects, and collaboration calls for each subgroup will be published separately.
+</p>
+
+---
+
 <h2 style="color:#003366; font-family:Calibri;">🔬 Core Activities</h2>
 
 <ul style="color:white; font-family:Cambria;">
