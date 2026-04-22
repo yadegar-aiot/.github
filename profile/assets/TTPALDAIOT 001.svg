@@ -20,7 +20,7 @@
     <line x1="141.504669" y1="102.017315" x2="141.504669" y2="122.1559026" fill="none" stroke="#334155" stroke-miterlimit="10" stroke-width="1.9"/>
     <circle cx="141.504669" cy="123.786132" r="1.6302294" fill="none" stroke="#334155" stroke-miterlimit="10" stroke-width="1.9"/>
     <circle cx="197.1866427" cy="115.3882513" r="1.6302294" fill="none" stroke="#334155" stroke-miterlimit="10" stroke-width="1.9"/>
-     
+    </g>
     <!-- چرخ‌دنده با انیمیشن -->
     <g>
 <animateTransform 
