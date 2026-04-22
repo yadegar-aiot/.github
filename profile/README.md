@@ -62,7 +62,7 @@ To focus more deeply on specific technical domains and practical applications, o
         <img 
           src="https://raw.githubusercontent.com/yadegar-aiot/.github/main/profile/assets/TTPALDAIOT-001.svg"
           alt="TTP-ALD-AIOT Logo"
-          width="280"
+          width="580"
           style="border-radius: 12px;"
           onerror="this.onerror=null; this.src='https://via.placeholder.com/280x100?text=Research+Team';"
         />
@@ -79,7 +79,7 @@ To focus more deeply on specific technical domains and practical applications, o
         <img 
           src="https://raw.githubusercontent.com/yadegar-aiot/.github/main/profile/assets/TTVEAAIOT-001.svg"
           alt="TTV-EA-AIOT Logo"
-          width="280"
+          width="580"
           style="border-radius: 12px;"
           onerror="this.onerror=null; this.src='https://via.placeholder.com/280x100?text=Design+Team';"
         />
